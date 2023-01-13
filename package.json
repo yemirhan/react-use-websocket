@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/robtaussig/react-use-websocket.git"
+    "url": "git+https://github.com/yemirhan/react-use-websocket.git"
   },
   "dependencies": {},
   "types": "./dist/index.d.ts",
@@ -85,7 +85,7 @@
   "author": "Robert Taussig <robert.taussig@gmail.com> (robtaussig.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/robtaussig/react-use-websocket/issues"
+    "url": "https://github.com/yemirhan/react-use-websocket/issues"
   },
-  "homepage": "https://github.com/robtaussig/react-use-websocket#readme"
+  "homepage": "https://github.com/yemirhan/react-use-websocket#readme"
 }
